@@ -9,3 +9,9 @@ Edit content in folder docs
 ```
 yarn start
 ```
+
+## Deploy
+
+```
+GIT_USER=xxx CURRENT_BRANCH=master yarn deploy
+```
