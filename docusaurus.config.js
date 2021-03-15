@@ -1,11 +1,12 @@
 module.exports = {
   title: 'SenoWiki',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://senomas.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  projectName: 'bjb-mdw',
+  projectName: 'pubdoc',
+  organizationName: 'senomas',
   themeConfig: {
     navbar: {
       title: 'SenoWiki',

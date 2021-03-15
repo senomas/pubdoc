@@ -7,6 +7,7 @@
     "prep": "(git pull --ff-only origin `git branch --show-current` || true) && yarn --frozen-lockfile",
     "start": "yarn prep && docusaurus start",
     "build": "yarn prep && docusaurus build",
+    "deploy": "docusaurus deploy",
     "swizzle": "docusaurus swizzle"
   },
   "dependencies": {
