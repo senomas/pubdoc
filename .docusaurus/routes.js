@@ -3,48 +3,48 @@ import React from 'react';
 import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
 {
-  path: '/',
-  component: ComponentCreator('/','deb'),
+  path: '/pubdoc/',
+  component: ComponentCreator('/pubdoc/','6e0'),
   exact: true,
 },
 {
-  path: '/docs',
-  component: ComponentCreator('/docs','703'),
+  path: '/pubdoc/docs',
+  component: ComponentCreator('/pubdoc/docs','313'),
   
   routes: [
 {
-  path: '/docs/',
-  component: ComponentCreator('/docs/','0ff'),
+  path: '/pubdoc/docs/',
+  component: ComponentCreator('/pubdoc/docs/','c27'),
   exact: true,
 },
 {
-  path: '/docs/research',
-  component: ComponentCreator('/docs/research','9af'),
+  path: '/pubdoc/docs/research',
+  component: ComponentCreator('/pubdoc/docs/research','b22'),
   exact: true,
 },
 {
-  path: '/docs/snippets/docker',
-  component: ComponentCreator('/docs/snippets/docker','3e4'),
+  path: '/pubdoc/docs/snippets/docker',
+  component: ComponentCreator('/pubdoc/docs/snippets/docker','259'),
   exact: true,
 },
 {
-  path: '/docs/snippets/git',
-  component: ComponentCreator('/docs/snippets/git','61f'),
+  path: '/pubdoc/docs/snippets/git',
+  component: ComponentCreator('/pubdoc/docs/snippets/git','14a'),
   exact: true,
 },
 {
-  path: '/docs/snippets/java',
-  component: ComponentCreator('/docs/snippets/java','2cb'),
+  path: '/pubdoc/docs/snippets/java',
+  component: ComponentCreator('/pubdoc/docs/snippets/java','bf7'),
   exact: true,
 },
 {
-  path: '/docs/snippets/nodejs',
-  component: ComponentCreator('/docs/snippets/nodejs','f5d'),
+  path: '/pubdoc/docs/snippets/nodejs',
+  component: ComponentCreator('/pubdoc/docs/snippets/nodejs','48f'),
   exact: true,
 },
 {
-  path: '/docs/tool',
-  component: ComponentCreator('/docs/tool','f2e'),
+  path: '/pubdoc/docs/tool',
+  component: ComponentCreator('/pubdoc/docs/tool','f5d'),
   exact: true,
 },
 ]

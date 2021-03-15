@@ -6,15 +6,15 @@
   "description": "Save Username & Password Globally",
   "source": "@site/docs/snippets/git.md",
   "slug": "/snippets/git",
-  "permalink": "/docs/snippets/git",
+  "permalink": "/pubdoc/docs/snippets/git",
   "version": "current",
   "sidebar": "sidebar",
   "previous": {
     "title": "Docker Snippets",
-    "permalink": "/docs/snippets/docker"
+    "permalink": "/pubdoc/docs/snippets/docker"
   },
   "next": {
     "title": "Java Snippets",
-    "permalink": "/docs/snippets/java"
+    "permalink": "/pubdoc/docs/snippets/java"
   }
 }

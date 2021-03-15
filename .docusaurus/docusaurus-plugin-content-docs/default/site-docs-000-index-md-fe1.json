@@ -5,11 +5,11 @@
   "title": "Home",
   "source": "@site/docs/000.index.md",
   "slug": "/",
-  "permalink": "/docs/",
+  "permalink": "/pubdoc/docs/",
   "version": "current",
   "sidebar": "sidebar",
   "next": {
     "title": "Research",
-    "permalink": "/docs/research"
+    "permalink": "/pubdoc/docs/research"
   }
 }

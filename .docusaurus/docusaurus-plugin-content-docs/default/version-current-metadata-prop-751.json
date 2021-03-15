@@ -19,17 +19,17 @@
           {
             "type": "link",
             "label": "Home",
-            "href": "/docs/"
+            "href": "/pubdoc/docs/"
           },
           {
             "type": "link",
             "label": "Research",
-            "href": "/docs/research"
+            "href": "/pubdoc/docs/research"
           },
           {
             "type": "link",
             "label": "Tools",
-            "href": "/docs/tool"
+            "href": "/pubdoc/docs/tool"
           }
         ]
       },
@@ -41,34 +41,34 @@
           {
             "type": "link",
             "label": "Docker Snippets",
-            "href": "/docs/snippets/docker"
+            "href": "/pubdoc/docs/snippets/docker"
           },
           {
             "type": "link",
             "label": "GIT Snippets",
-            "href": "/docs/snippets/git"
+            "href": "/pubdoc/docs/snippets/git"
           },
           {
             "type": "link",
             "label": "Java Snippets",
-            "href": "/docs/snippets/java"
+            "href": "/pubdoc/docs/snippets/java"
           },
           {
             "type": "link",
             "label": "NodeJS Snippets",
-            "href": "/docs/snippets/nodejs"
+            "href": "/pubdoc/docs/snippets/nodejs"
           }
         ]
       }
     ]
   },
   "permalinkToSidebar": {
-    "/docs/": "sidebar",
-    "/docs/research": "sidebar",
-    "/docs/snippets/docker": "sidebar",
-    "/docs/snippets/git": "sidebar",
-    "/docs/snippets/java": "sidebar",
-    "/docs/snippets/nodejs": "sidebar",
-    "/docs/tool": "sidebar"
+    "/pubdoc/docs/": "sidebar",
+    "/pubdoc/docs/research": "sidebar",
+    "/pubdoc/docs/snippets/docker": "sidebar",
+    "/pubdoc/docs/snippets/git": "sidebar",
+    "/pubdoc/docs/snippets/java": "sidebar",
+    "/pubdoc/docs/snippets/nodejs": "sidebar",
+    "/pubdoc/docs/tool": "sidebar"
   }
 }

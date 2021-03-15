@@ -1,7 +1,7 @@
 export default {
   "title": "SenoWiki",
   "url": "https://senomas.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/pubdoc/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",

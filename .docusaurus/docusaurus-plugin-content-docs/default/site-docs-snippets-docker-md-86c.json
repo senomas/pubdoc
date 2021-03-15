@@ -6,15 +6,15 @@
   "description": "Clean up",
   "source": "@site/docs/snippets/docker.md",
   "slug": "/snippets/docker",
-  "permalink": "/docs/snippets/docker",
+  "permalink": "/pubdoc/docs/snippets/docker",
   "version": "current",
   "sidebar": "sidebar",
   "previous": {
     "title": "Tools",
-    "permalink": "/docs/tool"
+    "permalink": "/pubdoc/docs/tool"
   },
   "next": {
     "title": "GIT Snippets",
-    "permalink": "/docs/snippets/git"
+    "permalink": "/pubdoc/docs/snippets/git"
   }
 }

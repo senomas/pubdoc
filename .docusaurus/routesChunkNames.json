@@ -1,37 +1,37 @@
 {
-  "/-deb": {
+  "/pubdoc/-6e0": {
     "component": "c4f5d8e4",
     "config": "5e9f5e1a"
   },
-  "/docs-703": {
+  "/pubdoc/docs-313": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
-  "/docs/-0ff": {
+  "/pubdoc/docs/-c27": {
     "component": "17896441",
     "content": "fe1bac53"
   },
-  "/docs/research-9af": {
+  "/pubdoc/docs/research-b22": {
     "component": "17896441",
     "content": "5bd3f688"
   },
-  "/docs/snippets/docker-3e4": {
+  "/pubdoc/docs/snippets/docker-259": {
     "component": "17896441",
     "content": "86c2bb54"
   },
-  "/docs/snippets/git-61f": {
+  "/pubdoc/docs/snippets/git-14a": {
     "component": "17896441",
     "content": "0bc45167"
   },
-  "/docs/snippets/java-2cb": {
+  "/pubdoc/docs/snippets/java-bf7": {
     "component": "17896441",
     "content": "755855e2"
   },
-  "/docs/snippets/nodejs-f5d": {
+  "/pubdoc/docs/snippets/nodejs-48f": {
     "component": "17896441",
     "content": "9c2fe012"
   },
-  "/docs/tool-f2e": {
+  "/pubdoc/docs/tool-f5d": {
     "component": "17896441",
     "content": "370fa3f8"
   }
