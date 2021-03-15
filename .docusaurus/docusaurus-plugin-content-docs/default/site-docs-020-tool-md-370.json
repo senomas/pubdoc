@@ -1,0 +1,20 @@
+{
+  "unversionedId": "tool",
+  "id": "tool",
+  "isDocsHomePage": false,
+  "title": "Tools",
+  "description": "* Excalidaraw",
+  "source": "@site/docs/020.tool.md",
+  "slug": "/tool",
+  "permalink": "/docs/tool",
+  "version": "current",
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Research",
+    "permalink": "/docs/research"
+  },
+  "next": {
+    "title": "Docker Snippets",
+    "permalink": "/docs/snippets/docker"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "snippets/java",
+  "id": "snippets/java",
+  "isDocsHomePage": false,
+  "title": "Java Snippets",
+  "description": "TODO",
+  "source": "@site/docs/snippets/java.md",
+  "slug": "/snippets/java",
+  "permalink": "/docs/snippets/java",
+  "version": "current",
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "GIT Snippets",
+    "permalink": "/docs/snippets/git"
+  },
+  "next": {
+    "title": "NodeJS Snippets",
+    "permalink": "/docs/snippets/nodejs"
+  }
+}

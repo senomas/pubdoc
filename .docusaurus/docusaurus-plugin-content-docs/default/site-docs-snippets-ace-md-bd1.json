@@ -1,0 +1,20 @@
+{
+  "unversionedId": "snippets/ace",
+  "id": "snippets/ace",
+  "isDocsHomePage": false,
+  "title": "ACE Snippets",
+  "description": "TODO",
+  "source": "@site/docs/snippets/ace.md",
+  "slug": "/snippets/ace",
+  "permalink": "/docs/snippets/ace",
+  "version": "current",
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Tools",
+    "permalink": "/docs/tool"
+  },
+  "next": {
+    "title": "Docker Snippets",
+    "permalink": "/docs/snippets/docker"
+  }
+}

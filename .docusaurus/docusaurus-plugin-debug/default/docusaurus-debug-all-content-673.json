@@ -1,0 +1,231 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/seno/seno-doc/sidebars.js",
+          "docsDirPath": "/home/seno/seno-doc/docs",
+          "docsDirPathLocalized": "/home/seno/seno-doc/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "index",
+          "sidebars": {
+            "sidebar": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Getting Started",
+                "items": []
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Wiki",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "research"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tool"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Snippets",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "snippets/docker"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "snippets/git"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "snippets/java"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "snippets/nodejs"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/": "sidebar",
+            "/docs/research": "sidebar",
+            "/docs/snippets/docker": "sidebar",
+            "/docs/snippets/git": "sidebar",
+            "/docs/snippets/java": "sidebar",
+            "/docs/snippets/nodejs": "sidebar",
+            "/docs/tool": "sidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "isDocsHomePage": false,
+              "title": "Home",
+              "source": "@site/docs/000.index.md",
+              "slug": "/",
+              "permalink": "/docs/",
+              "version": "current",
+              "sidebar": "sidebar",
+              "next": {
+                "title": "Research",
+                "permalink": "/docs/research"
+              }
+            },
+            {
+              "unversionedId": "research",
+              "id": "research",
+              "isDocsHomePage": false,
+              "title": "Research",
+              "description": "* Chakra UI",
+              "source": "@site/docs/010.research.md",
+              "slug": "/research",
+              "permalink": "/docs/research",
+              "version": "current",
+              "sidebar": "sidebar",
+              "previous": {
+                "title": "Home",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "Tools",
+                "permalink": "/docs/tool"
+              }
+            },
+            {
+              "unversionedId": "snippets/docker",
+              "id": "snippets/docker",
+              "isDocsHomePage": false,
+              "title": "Docker Snippets",
+              "description": "Clean up",
+              "source": "@site/docs/snippets/docker.md",
+              "slug": "/snippets/docker",
+              "permalink": "/docs/snippets/docker",
+              "version": "current",
+              "sidebar": "sidebar",
+              "previous": {
+                "title": "Tools",
+                "permalink": "/docs/tool"
+              },
+              "next": {
+                "title": "GIT Snippets",
+                "permalink": "/docs/snippets/git"
+              }
+            },
+            {
+              "unversionedId": "snippets/git",
+              "id": "snippets/git",
+              "isDocsHomePage": false,
+              "title": "GIT Snippets",
+              "description": "Save Username & Password Globally",
+              "source": "@site/docs/snippets/git.md",
+              "slug": "/snippets/git",
+              "permalink": "/docs/snippets/git",
+              "version": "current",
+              "sidebar": "sidebar",
+              "previous": {
+                "title": "Docker Snippets",
+                "permalink": "/docs/snippets/docker"
+              },
+              "next": {
+                "title": "Java Snippets",
+                "permalink": "/docs/snippets/java"
+              }
+            },
+            {
+              "unversionedId": "snippets/java",
+              "id": "snippets/java",
+              "isDocsHomePage": false,
+              "title": "Java Snippets",
+              "description": "TODO",
+              "source": "@site/docs/snippets/java.md",
+              "slug": "/snippets/java",
+              "permalink": "/docs/snippets/java",
+              "version": "current",
+              "sidebar": "sidebar",
+              "previous": {
+                "title": "GIT Snippets",
+                "permalink": "/docs/snippets/git"
+              },
+              "next": {
+                "title": "NodeJS Snippets",
+                "permalink": "/docs/snippets/nodejs"
+              }
+            },
+            {
+              "unversionedId": "snippets/nodejs",
+              "id": "snippets/nodejs",
+              "isDocsHomePage": false,
+              "title": "NodeJS Snippets",
+              "description": "TODO",
+              "source": "@site/docs/snippets/nodejs.md",
+              "slug": "/snippets/nodejs",
+              "permalink": "/docs/snippets/nodejs",
+              "version": "current",
+              "sidebar": "sidebar",
+              "previous": {
+                "title": "Java Snippets",
+                "permalink": "/docs/snippets/java"
+              }
+            },
+            {
+              "unversionedId": "tool",
+              "id": "tool",
+              "isDocsHomePage": false,
+              "title": "Tools",
+              "description": "* Excalidaraw",
+              "source": "@site/docs/020.tool.md",
+              "slug": "/tool",
+              "permalink": "/docs/tool",
+              "version": "current",
+              "sidebar": "sidebar",
+              "previous": {
+                "title": "Research",
+                "permalink": "/docs/research"
+              },
+              "next": {
+                "title": "Docker Snippets",
+                "permalink": "/docs/snippets/docker"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": null
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

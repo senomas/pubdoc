@@ -1,0 +1,20 @@
+{
+  "unversionedId": "snippets/git",
+  "id": "snippets/git",
+  "isDocsHomePage": false,
+  "title": "GIT Snippets",
+  "description": "Save Username & Password Globally",
+  "source": "@site/docs/snippets/git.md",
+  "slug": "/snippets/git",
+  "permalink": "/docs/snippets/git",
+  "version": "current",
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Docker Snippets",
+    "permalink": "/docs/snippets/docker"
+  },
+  "next": {
+    "title": "Java Snippets",
+    "permalink": "/docs/snippets/java"
+  }
+}

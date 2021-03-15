@@ -1,0 +1,20 @@
+{
+  "unversionedId": "snippets/docker",
+  "id": "snippets/docker",
+  "isDocsHomePage": false,
+  "title": "Docker Snippets",
+  "description": "Clean up",
+  "source": "@site/docs/snippets/docker.md",
+  "slug": "/snippets/docker",
+  "permalink": "/docs/snippets/docker",
+  "version": "current",
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Tools",
+    "permalink": "/docs/tool"
+  },
+  "next": {
+    "title": "GIT Snippets",
+    "permalink": "/docs/snippets/git"
+  }
+}

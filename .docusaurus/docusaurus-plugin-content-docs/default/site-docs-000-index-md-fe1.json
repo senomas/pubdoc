@@ -1,0 +1,15 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "isDocsHomePage": false,
+  "title": "Home",
+  "source": "@site/docs/000.index.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "version": "current",
+  "sidebar": "sidebar",
+  "next": {
+    "title": "Research",
+    "permalink": "/docs/research"
+  }
+}

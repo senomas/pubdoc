@@ -1,0 +1,20 @@
+{
+  "unversionedId": "research",
+  "id": "research",
+  "isDocsHomePage": false,
+  "title": "Research",
+  "description": "* Chakra UI",
+  "source": "@site/docs/010.research.md",
+  "slug": "/research",
+  "permalink": "/docs/research",
+  "version": "current",
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Tools",
+    "permalink": "/docs/tool"
+  }
+}

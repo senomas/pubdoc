@@ -1,0 +1,231 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "1": [
+      0,
+      9,
+      14,
+      15,
+      1
+    ],
+    "styles": [
+      1,
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      0
+    ],
+    "@site/docs/snippets/git.md": [
+      2
+    ],
+    "@site/docs/020.tool.md": [
+      3
+    ],
+    "@site/docs/010.research.md": [
+      4
+    ],
+    "@site/docs/snippets/java.md": [
+      5
+    ],
+    "@site/docs/snippets/docker.md": [
+      6
+    ],
+    "~docs/default/version-current-metadata-prop-751.json": [
+      7
+    ],
+    "@site/docs/snippets/nodejs.md": [
+      8
+    ],
+    "@site/src/pages/index.js": [
+      0,
+      1,
+      9
+    ],
+    "@site/docs/000.index.md": [
+      10
+    ],
+    "@generated/docusaurus.config": [
+      0,
+      12,
+      11
+    ],
+    "main": [
+      0,
+      12,
+      11
+    ],
+    "runtime~main": [
+      0,
+      11,
+      12
+    ],
+    "@theme/DocItem": [
+      0,
+      13
+    ],
+    "@theme/DocPage": [
+      0,
+      1,
+      15
+    ],
+    "@theme/NotFound": [
+      0,
+      1,
+      15
+    ]
+  },
+  "assets": {
+    "0": {
+      "css": [
+        {
+          "file": "styles.21f0090d.css",
+          "hash": "51000475f92f78db187e",
+          "publicPath": "/styles.21f0090d.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "styles.bfbc9b35.js",
+          "hash": "51000475f92f78db187e",
+          "publicPath": "/styles.bfbc9b35.js"
+        }
+      ]
+    },
+    "1": {
+      "js": [
+        {
+          "file": "1.42a8430b.js",
+          "hash": "29cbbff51e5ed1041326",
+          "publicPath": "/1.42a8430b.js"
+        }
+      ]
+    },
+    "2": {
+      "js": [
+        {
+          "file": "0bc45167.9a14daed.js",
+          "hash": "95d169f9101de437d5ee",
+          "publicPath": "/0bc45167.9a14daed.js"
+        }
+      ]
+    },
+    "3": {
+      "js": [
+        {
+          "file": "370fa3f8.d54f5f17.js",
+          "hash": "19a2c97e25de0486bc35",
+          "publicPath": "/370fa3f8.d54f5f17.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "5bd3f688.19ca74b1.js",
+          "hash": "da7ecb00d45df58c8c54",
+          "publicPath": "/5bd3f688.19ca74b1.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "755855e2.994d2d62.js",
+          "hash": "132b3da2e5add8d9ae32",
+          "publicPath": "/755855e2.994d2d62.js"
+        }
+      ]
+    },
+    "6": {
+      "js": [
+        {
+          "file": "86c2bb54.a833d798.js",
+          "hash": "1f20699b0068815a4554",
+          "publicPath": "/86c2bb54.a833d798.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "935f2afb.1464bc56.js",
+          "hash": "46abec75fb97d5fbcab2",
+          "publicPath": "/935f2afb.1464bc56.js"
+        }
+      ]
+    },
+    "8": {
+      "js": [
+        {
+          "file": "9c2fe012.db285028.js",
+          "hash": "35121ac8ae3b56d1db66",
+          "publicPath": "/9c2fe012.db285028.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "c4f5d8e4.6b28955c.js",
+          "hash": "9701b289df035b835494",
+          "publicPath": "/c4f5d8e4.6b28955c.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "fe1bac53.25b7dfd4.js",
+          "hash": "a0b7bd0e6ca6487a381f",
+          "publicPath": "/fe1bac53.25b7dfd4.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "main.926fa965.js",
+          "hash": "75d46fecad357a835d09",
+          "publicPath": "/main.926fa965.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "runtime~main.bfc5e7a6.js",
+          "hash": "8d0dec9d457c72750fe4",
+          "publicPath": "/runtime~main.bfc5e7a6.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "13.bece9b67.js",
+          "hash": "563bccc35f0350ae5971",
+          "publicPath": "/13.bece9b67.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "14.27f871d8.js",
+          "hash": "4482df99331740951099",
+          "publicPath": "/14.27f871d8.js"
+        },
+        {
+          "file": "15.329d7436.js",
+          "hash": "ade65a5b7da38abb32d7",
+          "publicPath": "/15.329d7436.js"
+        }
+      ]
+    }
+  }
+}
